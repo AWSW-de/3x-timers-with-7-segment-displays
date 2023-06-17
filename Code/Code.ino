@@ -1,7 +1,7 @@
 // ###########################################################################################################################################
 // #
 // # Code for the printables 3x timers with 7-segment displays project:
-// # https://www.printables.com/de/model/507138-3x-timers-with-7-segment-displays
+// # https://www.printables.com/de/model/507138-3-timers-with-7-segment-displays
 // #
 // # Code by https://github.com/AWSW-de 
 // #
